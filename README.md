@@ -28,4 +28,4 @@ I am a student in Python web development <img src="https://media.giphy.com/media
 
 - :zap: In my free time, I solve problems on codewars, learning topics deeper and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-voytima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-voytik-py/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-voytima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-voytik-py/) [![VK Badge](https://img.shields.io/badge/-voytima-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/dmitry_voytik)
