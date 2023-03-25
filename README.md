@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Voytima
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python, java and SQL
-- 💞️ I’m looking to collaborate on cool API projects
-- 📫 How to reach me voytima@gmail.com
-
-<!---
-Voytima/Voytima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZhOTczMTVmYjcwZmRhMDA3YjdiYTkzMmZkYjRjNjYyZGJkMDliNSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/dmitry-voytik-py/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://vk.com/dmitry_voytik">
+    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Voytima&style=flat-square&color=blue" alt=""/>
+</div>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
