@@ -21,8 +21,8 @@
 </div>
 :man_technologist: About Me :
 
-I am a student in Python web development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-- :telescope: I’m focusing on study PY, SQL as well as frontend part (HTML/CSS/JS).
+I am a Python web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I’m focusing on study PY, SQL as well as frontend part (HTML/CSS/React).
 
 - :seedling: Exploring Web Frameworks.
 
